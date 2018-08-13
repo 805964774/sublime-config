@@ -1,0 +1,8 @@
+{
+	"format_on_save": false,
+	"php_bin": "/Applications/MAMP/bin/php/php7.1.8/bin/php",
+	"psr1": true,
+	"psr1_naming": true,
+	"psr2": true,
+	"version": 1
+}

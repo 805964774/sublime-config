@@ -1,0 +1,2 @@
+Gocode pkg: "user/hello"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Applications/Golang/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Applications/Golang", InstallSuffix:""}
