@@ -1,3 +1,4 @@
 [
     { "keys": ["shift+space"], "command": "auto_complete" },
+    { "keys": ["ctrl+t"], "command": "add_current_time" },
 ]
