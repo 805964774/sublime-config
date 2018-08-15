@@ -2,5 +2,5 @@
    "jsdocs_param_description": false, // 去除param描述
    "jsdocs_return_description": false, // 去除return描述AuthorHTL
    "jsdocs_align_tags": "shallow",
-   "jsdocs_extra_tags": ["@author 805964774@qq.com", "@date {{datetime}}"],//添加作者和当前日期
+   "jsdocs_extra_tags": ["@author jinlulu", "@date {{datetime}}"],//添加作者和当前日期
 }

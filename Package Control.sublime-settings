@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Asciidoctor",
 		"DocBlockr",
 		"EditorConfig",
@@ -18,6 +19,7 @@
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SyncedSideBar",
+		"Terminal",
 		"Thinkphp"
 	]
 }
