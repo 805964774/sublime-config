@@ -1,4 +1,4 @@
 {
-  "terminal": "iTerm.sh",
+  "terminal": "iTerm2-V3.sh",
   "parameters": ["open_terminal_project_folder"]
 }
